@@ -9,7 +9,7 @@ HackyBoi fits just about every combination of hotend and extruder you can come u
 
 Changes from Beta 3 version: 
 - Adjusted the shelf to fit the Beta4's upper
-- Discontinued the Rapido version - use my new [Rapido mount](https://github.com/cosmonate/VoronStuff/Rapido_HF_Mount) instead. 
+- Discontinued the Rapido version - use my new [Rapido mount](https://github.com/cosmonate/VoronStuff/tree/main/Rapido_HF_Mount) instead. 
 
 Also in this folder: 
 A CAD for MiniSB-LGX Lite modified for Boop Beta 3. It's just extra weight with no benefit over HackyBoi. 
